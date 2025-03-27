@@ -1,5 +1,5 @@
 # Hand-Detection
-Hand Detection-AI
+
 
 Hand Detection-AI is an OpenCV-based project that enables real-time hand tracking and gesture recognition using computer vision techniques. This project allows you to detect hands dynamically and analyze their movement for various applications.
 
@@ -29,8 +29,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/Hand-Detection-AI.git
-cd Hand-Detection-AI
+git clone https://github.com/icrohan/Hand-Detection.git
+cd Hand-Detection
 
 Install dependencies:
 
